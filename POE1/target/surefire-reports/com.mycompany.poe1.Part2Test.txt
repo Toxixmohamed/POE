@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.mycompany.poe1.Part2Test
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.012 s <<< FAILURE! - in com.mycompany.poe1.Part2Test
+com.mycompany.poe1.Part2Test  Time elapsed: 0.011 s  <<< ERROR!
+java.lang.ExceptionInInitializerError
+	at com.mycompany.poe1.Part2Test.<clinit>(Part2Test.java:1)
+
